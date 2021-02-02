@@ -6,4 +6,4 @@ sudoku.py is a tradition backtracking algorithm.Puzzle is solved one piece at a 
 
 sudoku2.py is the algorith which uses the fact that at any given time at least one place in the sudoku puzzle can be filled with absolute certainty.The entire state of the game is stored and the possible values for each block are recursively eliminated.
 
-Overall sudoku.py performed bettr than sudoku2.py.
+Overall sudoku.py performed better than sudoku2.py.
